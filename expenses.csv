@@ -1,0 +1,438 @@
+date,person,category,sub_category,amount,payment_mode
+2025-10-20 19:42:07.148171,Sneha,Food,Groceries,272,UPI
+2025-10-20 19:42:07.148171,Rahul,Shopping,Clothes,4674,Debit Card
+2025-10-21 19:42:07.148171,Riya,Bills,Electricity,4875,Cash
+2025-10-21 19:42:07.148171,Aman,Food,Groceries,485,Credit Card
+2025-10-22 19:42:07.148171,Rahul,Food,Groceries,217,Cash
+2025-10-23 19:42:07.148171,Riya,Transport,Fuel,2691,Debit Card
+2025-10-24 19:42:07.148171,Sneha,Entertainment,Movies,1467,Debit Card
+2025-10-24 19:42:07.148171,Rahul,Bills,Internet,1791,Debit Card
+2025-10-25 19:42:07.148171,Rahul,Rent,House Rent,9971,Credit Card
+2025-10-25 19:42:07.148171,Aman,Transport,Cab,1316,UPI
+2025-10-25 19:42:07.148171,Rahul,Rent,House Rent,19151,UPI
+2025-10-25 19:42:07.148171,Sneha,Shopping,Electronics,1623,Cash
+2025-10-26 19:42:07.148171,Rahul,Shopping,Clothes,512,Cash
+2025-10-26 19:42:07.148171,Rahul,Transport,Fuel,2069,UPI
+2025-10-26 19:42:07.148171,Aman,Bills,Internet,2148,Cash
+2025-10-26 19:42:07.148171,Sneha,Transport,Fuel,1627,UPI
+2025-10-27 19:42:07.148171,Riya,Rent,House Rent,15968,Debit Card
+2025-10-27 19:42:07.148171,Rahul,Transport,Fuel,3402,Cash
+2025-10-27 19:42:07.148171,Sneha,Rent,House Rent,14061,Debit Card
+2025-10-27 19:42:07.148171,Aman,Bills,Internet,538,Credit Card
+2025-10-28 19:42:07.148171,Rahul,Shopping,Electronics,2185,Cash
+2025-10-28 19:42:07.148171,Aman,Bills,Internet,4371,Credit Card
+2025-10-29 19:42:07.148171,Aman,Rent,House Rent,15286,Cash
+2025-10-29 19:42:07.148171,Rahul,Entertainment,Movies,2037,Cash
+2025-10-29 19:42:07.148171,Riya,Entertainment,Subscriptions,4333,Credit Card
+2025-10-29 19:42:07.148171,Aman,Bills,Internet,1773,Debit Card
+2025-10-30 19:42:07.148171,Sneha,Shopping,Clothes,2614,Debit Card
+2025-10-30 19:42:07.148171,Sneha,Food,Dining,571,UPI
+2025-10-30 19:42:07.148171,Aman,Transport,Fuel,3394,Cash
+2025-10-30 19:42:07.148171,Rahul,Rent,House Rent,10827,Credit Card
+2025-10-31 19:42:07.148171,Rahul,Transport,Fuel,1822,UPI
+2025-10-31 19:42:07.148171,Aman,Rent,House Rent,16710,Debit Card
+2025-10-31 19:42:07.148171,Aman,Rent,House Rent,14026,UPI
+2025-10-31 19:42:07.148171,Sneha,Transport,Fuel,889,Cash
+2025-11-01 19:42:07.148171,Sneha,Entertainment,Subscriptions,3273,UPI
+2025-11-01 19:42:07.148171,Rahul,Food,Groceries,570,UPI
+2025-11-01 19:42:07.148171,Rahul,Transport,Cab,1543,UPI
+2025-11-02 19:42:07.148171,Sneha,Entertainment,Movies,1901,Credit Card
+2025-11-02 19:42:07.148171,Rahul,Transport,Fuel,4829,Credit Card
+2025-11-02 19:42:07.148171,Riya,Shopping,Electronics,3084,UPI
+2025-11-03 19:42:07.148171,Rahul,Food,Dining,423,UPI
+2025-11-03 19:42:07.148171,Riya,Entertainment,Subscriptions,3828,Credit Card
+2025-11-04 19:42:07.148171,Rahul,Rent,House Rent,14386,Cash
+2025-11-05 19:42:07.148171,Riya,Bills,Electricity,1093,Cash
+2025-11-05 19:42:07.148171,Sneha,Entertainment,Movies,1099,Cash
+2025-11-05 19:42:07.148171,Aman,Entertainment,Subscriptions,3032,Credit Card
+2025-11-05 19:42:07.148171,Rahul,Bills,Electricity,245,Credit Card
+2025-11-06 19:42:07.148171,Aman,Shopping,Clothes,2325,Cash
+2025-11-06 19:42:07.148171,Aman,Rent,House Rent,9250,Cash
+2025-11-06 19:42:07.148171,Rahul,Entertainment,Subscriptions,3394,UPI
+2025-11-06 19:42:07.148171,Rahul,Bills,Internet,4905,UPI
+2025-11-07 19:42:07.148171,Riya,Transport,Fuel,1430,Cash
+2025-11-07 19:42:07.148171,Sneha,Transport,Cab,238,Cash
+2025-11-08 19:42:07.148171,Sneha,Entertainment,Subscriptions,4604,Credit Card
+2025-11-08 19:42:07.148171,Riya,Bills,Internet,3864,UPI
+2025-11-08 19:42:07.148171,Rahul,Food,Groceries,240,UPI
+2025-11-09 19:42:07.148171,Rahul,Transport,Cab,1048,Cash
+2025-11-09 19:42:07.148171,Aman,Rent,House Rent,12927,Credit Card
+2025-11-10 19:42:07.148171,Rahul,Entertainment,Movies,4139,Cash
+2025-11-10 19:42:07.148171,Rahul,Entertainment,Movies,1618,UPI
+2025-11-10 19:42:07.148171,Riya,Transport,Fuel,4153,Debit Card
+2025-11-10 19:42:07.148171,Rahul,Shopping,Electronics,235,Cash
+2025-11-11 19:42:07.148171,Sneha,Transport,Cab,3293,Debit Card
+2025-11-11 19:42:07.148171,Riya,Bills,Internet,2118,Cash
+2025-11-11 19:42:07.148171,Sneha,Transport,Cab,3001,Credit Card
+2025-11-11 19:42:07.148171,Sneha,Food,Groceries,106,Cash
+2025-11-12 19:42:07.148171,Riya,Bills,Internet,2526,UPI
+2025-11-13 19:42:07.148171,Aman,Rent,House Rent,16126,Cash
+2025-11-13 19:42:07.148171,Riya,Entertainment,Movies,3443,UPI
+2025-11-13 19:42:07.148171,Aman,Rent,House Rent,14127,UPI
+2025-11-14 19:42:07.148171,Sneha,Shopping,Electronics,3057,Debit Card
+2025-11-15 19:42:07.148171,Sneha,Shopping,Clothes,977,Debit Card
+2025-11-15 19:42:07.148171,Rahul,Shopping,Electronics,4912,Debit Card
+2025-11-16 19:42:07.148171,Rahul,Bills,Electricity,2405,UPI
+2025-11-17 19:42:07.148171,Aman,Rent,House Rent,13185,Credit Card
+2025-11-17 19:42:07.148171,Riya,Transport,Fuel,4476,Cash
+2025-11-17 19:42:07.148171,Rahul,Bills,Electricity,4169,Cash
+2025-11-17 19:42:07.148171,Riya,Transport,Fuel,2596,Debit Card
+2025-11-18 19:42:07.148171,Sneha,Entertainment,Movies,980,UPI
+2025-11-18 19:42:07.148171,Riya,Transport,Fuel,493,UPI
+2025-11-18 19:42:07.148171,Sneha,Food,Groceries,449,Debit Card
+2025-11-19 19:42:07.148171,Rahul,Bills,Internet,2671,Cash
+2025-11-20 19:42:07.148171,Riya,Food,Dining,511,Debit Card
+2025-11-20 19:42:07.148171,Riya,Entertainment,Subscriptions,1462,Debit Card
+2025-11-20 19:42:07.148171,Sneha,Rent,House Rent,10021,UPI
+2025-11-21 19:42:07.148171,Sneha,Food,Groceries,363,Debit Card
+2025-11-22 19:42:07.148171,Aman,Bills,Electricity,230,Cash
+2025-11-22 19:42:07.148171,Riya,Food,Dining,120,Cash
+2025-11-22 19:42:07.148171,Rahul,Shopping,Clothes,2766,UPI
+2025-11-22 19:42:07.148171,Sneha,Rent,House Rent,8557,UPI
+2025-11-23 19:42:07.148171,Sneha,Rent,House Rent,12494,Debit Card
+2025-11-23 19:42:07.148171,Riya,Food,Groceries,565,Cash
+2025-11-23 19:42:07.148171,Riya,Transport,Cab,563,Cash
+2025-11-24 19:42:07.148171,Sneha,Shopping,Clothes,286,Cash
+2025-11-25 19:42:07.148171,Riya,Entertainment,Subscriptions,3343,UPI
+2025-11-25 19:42:07.148171,Sneha,Rent,House Rent,14457,Cash
+2025-11-26 19:42:07.148171,Aman,Bills,Internet,525,Cash
+2025-11-26 19:42:07.148171,Rahul,Bills,Electricity,4352,Cash
+2025-11-27 19:42:07.148171,Aman,Shopping,Clothes,1964,UPI
+2025-11-27 19:42:07.148171,Riya,Rent,House Rent,8502,UPI
+2025-11-27 19:42:07.148171,Aman,Transport,Cab,551,UPI
+2025-11-28 19:42:07.148171,Aman,Entertainment,Subscriptions,714,Credit Card
+2025-11-28 19:42:07.148171,Aman,Food,Dining,652,Debit Card
+2025-11-28 19:42:07.148171,Aman,Entertainment,Subscriptions,4314,Credit Card
+2025-11-28 19:42:07.148171,Riya,Rent,House Rent,11060,Debit Card
+2025-11-29 19:42:07.148171,Aman,Entertainment,Subscriptions,2698,Cash
+2025-11-29 19:42:07.148171,Rahul,Transport,Cab,345,Debit Card
+2025-11-30 19:42:07.148171,Sneha,Transport,Cab,4630,Debit Card
+2025-12-01 19:42:07.148171,Rahul,Rent,House Rent,13161,Cash
+2025-12-02 19:42:07.148171,Rahul,Rent,House Rent,8378,Debit Card
+2025-12-02 19:42:07.148171,Riya,Shopping,Electronics,1316,UPI
+2025-12-03 19:42:07.148171,Rahul,Food,Groceries,774,Debit Card
+2025-12-03 19:42:07.148171,Aman,Entertainment,Subscriptions,2943,Debit Card
+2025-12-04 19:42:07.148171,Rahul,Food,Groceries,207,Credit Card
+2025-12-04 19:42:07.148171,Riya,Transport,Cab,3052,Cash
+2025-12-04 19:42:07.148171,Rahul,Transport,Fuel,3289,Debit Card
+2025-12-05 19:42:07.148171,Sneha,Entertainment,Subscriptions,4077,Credit Card
+2025-12-05 19:42:07.148171,Sneha,Entertainment,Movies,4845,UPI
+2025-12-06 19:42:07.148171,Aman,Transport,Cab,1552,UPI
+2025-12-06 19:42:07.148171,Riya,Shopping,Electronics,2261,Debit Card
+2025-12-06 19:42:07.148171,Sneha,Entertainment,Subscriptions,374,Debit Card
+2025-12-07 19:42:07.148171,Rahul,Shopping,Electronics,3835,UPI
+2025-12-08 19:42:07.148171,Sneha,Rent,House Rent,13876,Debit Card
+2025-12-08 19:42:07.148171,Riya,Shopping,Clothes,4147,UPI
+2025-12-09 19:42:07.148171,Sneha,Shopping,Electronics,2320,UPI
+2025-12-09 19:42:07.148171,Aman,Food,Groceries,609,UPI
+2025-12-10 19:42:07.148171,Sneha,Entertainment,Subscriptions,600,Cash
+2025-12-10 19:42:07.148171,Rahul,Food,Dining,153,UPI
+2025-12-10 19:42:07.148171,Aman,Rent,House Rent,16188,UPI
+2025-12-11 19:42:07.148171,Aman,Shopping,Clothes,3731,UPI
+2025-12-12 19:42:07.148171,Sneha,Shopping,Electronics,3852,Credit Card
+2025-12-12 19:42:07.148171,Sneha,Entertainment,Subscriptions,3598,Credit Card
+2025-12-13 19:42:07.148171,Sneha,Transport,Cab,2537,UPI
+2025-12-14 19:42:07.148171,Riya,Shopping,Electronics,1081,Credit Card
+2025-12-14 19:42:07.148171,Riya,Bills,Internet,4902,Credit Card
+2025-12-14 19:42:07.148171,Sneha,Food,Groceries,178,Debit Card
+2025-12-15 19:42:07.148171,Rahul,Rent,House Rent,19662,Credit Card
+2025-12-15 19:42:07.148171,Sneha,Bills,Electricity,3519,Debit Card
+2025-12-16 19:42:07.148171,Riya,Rent,House Rent,9546,Cash
+2025-12-17 19:42:07.148171,Rahul,Rent,House Rent,10444,Cash
+2025-12-17 19:42:07.148171,Sneha,Rent,House Rent,11673,Debit Card
+2025-12-18 19:42:07.148171,Rahul,Entertainment,Movies,2050,Credit Card
+2025-12-19 19:42:07.148171,Sneha,Shopping,Clothes,4861,UPI
+2025-12-19 19:42:07.148171,Riya,Entertainment,Subscriptions,2310,Credit Card
+2025-12-19 19:42:07.148171,Aman,Rent,House Rent,19063,Cash
+2025-12-20 19:42:07.148171,Sneha,Transport,Cab,573,Cash
+2025-12-20 19:42:07.148171,Aman,Entertainment,Subscriptions,4639,UPI
+2025-12-21 19:42:07.148171,Riya,Food,Dining,344,Debit Card
+2025-12-21 19:42:07.148171,Riya,Food,Dining,434,Cash
+2025-12-21 19:42:07.148171,Riya,Shopping,Electronics,282,Credit Card
+2025-12-22 19:42:07.148171,Rahul,Transport,Fuel,3098,UPI
+2025-12-23 19:42:07.148171,Sneha,Entertainment,Subscriptions,4485,UPI
+2025-12-23 19:42:07.148171,Rahul,Food,Groceries,345,Debit Card
+2025-12-23 19:42:07.148171,Aman,Transport,Fuel,4092,Cash
+2025-12-24 19:42:07.148171,Sneha,Food,Dining,538,UPI
+2025-12-25 19:42:07.148171,Aman,Entertainment,Subscriptions,3790,UPI
+2025-12-26 19:42:07.148171,Aman,Entertainment,Movies,4678,UPI
+2025-12-26 19:42:07.148171,Aman,Transport,Cab,2662,Cash
+2025-12-27 19:42:07.148171,Sneha,Entertainment,Movies,4268,Debit Card
+2025-12-28 19:42:07.148171,Aman,Food,Dining,366,Debit Card
+2025-12-29 19:42:07.148171,Sneha,Bills,Electricity,2719,Debit Card
+2025-12-29 19:42:07.148171,Riya,Entertainment,Subscriptions,3323,Debit Card
+2025-12-30 19:42:07.148171,Aman,Food,Dining,273,Credit Card
+2025-12-31 19:42:07.148171,Sneha,Bills,Electricity,1602,Credit Card
+2025-12-31 19:42:07.148171,Rahul,Bills,Electricity,4886,Credit Card
+2025-12-31 19:42:07.148171,Aman,Entertainment,Subscriptions,3192,Credit Card
+2026-01-01 19:42:07.148171,Aman,Shopping,Clothes,1439,Credit Card
+2026-01-01 19:42:07.148171,Riya,Transport,Cab,785,Credit Card
+2026-01-01 19:42:07.148171,Riya,Food,Dining,685,UPI
+2026-01-02 19:42:07.148171,Riya,Bills,Internet,880,Credit Card
+2026-01-03 19:42:07.148171,Riya,Bills,Internet,3322,Debit Card
+2026-01-04 19:42:07.148171,Sneha,Entertainment,Movies,2796,Cash
+2026-01-04 19:42:07.148171,Sneha,Transport,Cab,459,Cash
+2026-01-05 19:42:07.148171,Aman,Bills,Internet,2624,Credit Card
+2026-01-06 19:42:07.148171,Rahul,Shopping,Electronics,2883,Credit Card
+2026-01-06 19:42:07.148171,Rahul,Rent,House Rent,14134,Credit Card
+2026-01-06 19:42:07.148171,Rahul,Rent,House Rent,11103,Cash
+2026-01-07 19:42:07.148171,Sneha,Bills,Electricity,2353,Credit Card
+2026-01-07 19:42:07.148171,Riya,Bills,Internet,2097,UPI
+2026-01-07 19:42:07.148171,Rahul,Shopping,Clothes,727,Debit Card
+2026-01-07 19:42:07.148171,Sneha,Bills,Internet,3028,Credit Card
+2026-01-08 19:42:07.148171,Riya,Shopping,Electronics,3239,Debit Card
+2026-01-08 19:42:07.148171,Sneha,Shopping,Electronics,2687,Cash
+2026-01-08 19:42:07.148171,Riya,Shopping,Clothes,2604,Credit Card
+2026-01-08 19:42:07.148171,Riya,Bills,Internet,870,Cash
+2026-01-09 19:42:07.148171,Sneha,Transport,Cab,2711,UPI
+2026-01-09 19:42:07.148171,Riya,Food,Dining,423,UPI
+2026-01-09 19:42:07.148171,Rahul,Entertainment,Subscriptions,1562,Debit Card
+2026-01-10 19:42:07.148171,Aman,Food,Dining,199,Debit Card
+2026-01-10 19:42:07.148171,Aman,Bills,Internet,1245,Debit Card
+2026-01-10 19:42:07.148171,Aman,Entertainment,Movies,1934,Credit Card
+2026-01-11 19:42:07.148171,Rahul,Bills,Electricity,2663,Debit Card
+2026-01-11 19:42:07.148171,Riya,Rent,House Rent,10308,Debit Card
+2026-01-12 19:42:07.148171,Aman,Shopping,Electronics,4170,UPI
+2026-01-12 19:42:07.148171,Aman,Shopping,Electronics,2120,Cash
+2026-01-12 19:42:07.148171,Rahul,Transport,Cab,3925,Cash
+2026-01-12 19:42:07.148171,Rahul,Transport,Fuel,2272,Cash
+2026-01-13 19:42:07.148171,Aman,Shopping,Clothes,3542,Cash
+2026-01-13 19:42:07.148171,Aman,Bills,Electricity,3804,Debit Card
+2026-01-13 19:42:07.148171,Aman,Shopping,Electronics,2748,Debit Card
+2026-01-14 19:42:07.148171,Aman,Bills,Electricity,4107,Cash
+2026-01-14 19:42:07.148171,Aman,Shopping,Electronics,4605,Credit Card
+2026-01-15 19:42:07.148171,Riya,Shopping,Electronics,3426,UPI
+2026-01-16 19:42:07.148171,Rahul,Transport,Cab,1095,Debit Card
+2026-01-16 19:42:07.148171,Sneha,Entertainment,Movies,504,Debit Card
+2026-01-16 19:42:07.148171,Aman,Bills,Electricity,400,Credit Card
+2026-01-17 19:42:07.148171,Aman,Rent,House Rent,9361,UPI
+2026-01-18 19:42:07.148171,Aman,Rent,House Rent,15053,Credit Card
+2026-01-18 19:42:07.148171,Sneha,Rent,House Rent,17535,Credit Card
+2026-01-19 19:42:07.148171,Rahul,Entertainment,Subscriptions,1624,Debit Card
+2026-01-20 19:42:07.148171,Riya,Rent,House Rent,9239,Cash
+2026-01-20 19:42:07.148171,Rahul,Rent,House Rent,18058,Credit Card
+2026-01-20 19:42:07.148171,Sneha,Food,Groceries,419,Credit Card
+2026-01-21 19:42:07.148171,Aman,Rent,House Rent,14981,Credit Card
+2026-01-21 19:42:07.148171,Riya,Rent,House Rent,18851,UPI
+2026-01-21 19:42:07.148171,Rahul,Shopping,Electronics,4267,Credit Card
+2026-01-21 19:42:07.148171,Rahul,Bills,Electricity,560,Debit Card
+2026-01-22 19:42:07.148171,Riya,Entertainment,Movies,2013,UPI
+2026-01-22 19:42:07.148171,Riya,Rent,House Rent,11201,Cash
+2026-01-22 19:42:07.148171,Sneha,Transport,Fuel,1575,Credit Card
+2026-01-22 19:42:07.148171,Riya,Shopping,Clothes,4067,Debit Card
+2026-01-23 19:42:07.148171,Rahul,Transport,Cab,3005,Debit Card
+2026-01-23 19:42:07.148171,Rahul,Food,Groceries,647,Cash
+2026-01-23 19:42:07.148171,Riya,Rent,House Rent,18210,Cash
+2026-01-23 19:42:07.148171,Sneha,Transport,Fuel,1501,UPI
+2026-01-24 19:42:07.148171,Aman,Rent,House Rent,16396,Cash
+2026-01-24 19:42:07.148171,Sneha,Transport,Cab,4223,UPI
+2026-01-25 19:42:07.148171,Rahul,Bills,Electricity,959,UPI
+2026-01-26 19:42:07.148171,Rahul,Food,Dining,683,Cash
+2026-01-26 19:42:07.148171,Rahul,Food,Groceries,530,Credit Card
+2026-01-26 19:42:07.148171,Sneha,Rent,House Rent,12343,Credit Card
+2026-01-27 19:42:07.148171,Aman,Bills,Electricity,4056,Debit Card
+2026-01-28 19:42:07.148171,Sneha,Transport,Fuel,2738,UPI
+2026-01-28 19:42:07.148171,Sneha,Entertainment,Movies,3103,UPI
+2026-01-29 19:42:07.148171,Riya,Entertainment,Movies,4038,Debit Card
+2026-01-29 19:42:07.148171,Riya,Bills,Electricity,1164,Debit Card
+2026-01-30 19:42:07.148171,Riya,Rent,House Rent,11387,Debit Card
+2026-01-30 19:42:07.148171,Aman,Rent,House Rent,12202,Cash
+2026-01-30 19:42:07.148171,Riya,Entertainment,Movies,4975,Debit Card
+2026-01-31 19:42:07.148171,Sneha,Bills,Electricity,1013,Debit Card
+2026-01-31 19:42:07.148171,Sneha,Rent,House Rent,15220,Cash
+2026-01-31 19:42:07.148171,Rahul,Rent,House Rent,12025,Cash
+2026-02-01 19:42:07.148171,Sneha,Bills,Electricity,4483,Debit Card
+2026-02-02 19:42:07.148171,Aman,Shopping,Clothes,4177,Credit Card
+2026-02-02 19:42:07.148171,Sneha,Transport,Fuel,2108,UPI
+2026-02-02 19:42:07.148171,Aman,Food,Groceries,291,Cash
+2026-02-03 19:42:07.148171,Aman,Shopping,Clothes,3942,Debit Card
+2026-02-03 19:42:07.148171,Riya,Entertainment,Subscriptions,4444,Credit Card
+2026-02-03 19:42:07.148171,Rahul,Shopping,Clothes,2417,Credit Card
+2026-02-04 19:42:07.148171,Aman,Bills,Electricity,4530,Credit Card
+2026-02-04 19:42:07.148171,Sneha,Bills,Internet,3673,Cash
+2026-02-04 19:42:07.148171,Riya,Food,Dining,246,Debit Card
+2026-02-05 19:42:07.148171,Riya,Entertainment,Movies,2890,Cash
+2026-02-05 19:42:07.148171,Riya,Food,Dining,504,Debit Card
+2026-02-05 19:42:07.148171,Rahul,Entertainment,Movies,4083,UPI
+2026-02-06 19:42:07.148171,Rahul,Bills,Internet,1240,UPI
+2026-02-07 19:42:07.148171,Sneha,Shopping,Clothes,3702,Cash
+2026-02-07 19:42:07.148171,Sneha,Food,Dining,171,Cash
+2026-02-07 19:42:07.148171,Aman,Shopping,Clothes,2959,Debit Card
+2026-02-07 19:42:07.148171,Aman,Transport,Fuel,4642,Credit Card
+2026-02-08 19:42:07.148171,Riya,Entertainment,Movies,2185,Cash
+2026-02-08 19:42:07.148171,Aman,Shopping,Electronics,4221,Credit Card
+2026-02-08 19:42:07.148171,Sneha,Shopping,Electronics,3477,Credit Card
+2026-02-09 19:42:07.148171,Aman,Rent,House Rent,9338,Credit Card
+2026-02-09 19:42:07.148171,Riya,Bills,Electricity,2599,Credit Card
+2026-02-09 19:42:07.148171,Riya,Rent,House Rent,8195,Debit Card
+2026-02-10 19:42:07.148171,Rahul,Transport,Fuel,1092,Cash
+2026-02-10 19:42:07.148171,Aman,Entertainment,Movies,2821,UPI
+2026-02-10 19:42:07.148171,Aman,Food,Groceries,754,Credit Card
+2026-02-11 19:42:07.148171,Aman,Bills,Internet,379,Debit Card
+2026-02-12 19:42:07.148171,Riya,Entertainment,Subscriptions,2647,Debit Card
+2026-02-12 19:42:07.148171,Rahul,Entertainment,Subscriptions,4378,Credit Card
+2026-02-12 19:42:07.148171,Sneha,Rent,House Rent,19252,Cash
+2026-02-13 19:42:07.148171,Rahul,Shopping,Electronics,4063,Cash
+2026-02-13 19:42:07.148171,Sneha,Bills,Internet,1361,UPI
+2026-02-13 19:42:07.148171,Sneha,Entertainment,Movies,4214,Credit Card
+2026-02-14 19:42:07.148171,Aman,Transport,Cab,1318,Cash
+2026-02-14 19:42:07.148171,Sneha,Bills,Electricity,317,Credit Card
+2026-02-14 19:42:07.148171,Sneha,Food,Groceries,564,Credit Card
+2026-02-14 19:42:07.148171,Sneha,Transport,Fuel,3439,Credit Card
+2026-02-15 19:42:07.148171,Riya,Shopping,Clothes,3122,Credit Card
+2026-02-16 19:42:07.148171,Riya,Bills,Electricity,3119,Cash
+2026-02-17 19:42:07.148171,Rahul,Food,Dining,573,Debit Card
+2026-02-17 19:42:07.148171,Sneha,Shopping,Clothes,455,Debit Card
+2026-02-18 19:42:07.148171,Rahul,Transport,Fuel,872,Cash
+2026-02-18 19:42:07.148171,Aman,Bills,Electricity,483,UPI
+2026-02-18 19:42:07.148171,Rahul,Shopping,Clothes,1963,Debit Card
+2026-02-19 19:42:07.148171,Sneha,Shopping,Electronics,3239,Cash
+2026-02-19 19:42:07.148171,Riya,Shopping,Clothes,4606,UPI
+2026-02-19 19:42:07.148171,Riya,Transport,Cab,626,Cash
+2026-02-20 19:42:07.148171,Sneha,Bills,Electricity,4809,Debit Card
+2026-02-21 19:42:07.148171,Sneha,Transport,Fuel,4541,Credit Card
+2026-02-21 19:42:07.148171,Rahul,Shopping,Clothes,3805,Credit Card
+2026-02-21 19:42:07.148171,Sneha,Rent,House Rent,12957,Debit Card
+2026-02-21 19:42:07.148171,Riya,Bills,Electricity,3892,Credit Card
+2026-02-22 19:42:07.148171,Sneha,Bills,Internet,3014,Cash
+2026-02-22 19:42:07.148171,Aman,Food,Dining,363,Credit Card
+2026-02-22 19:42:07.148171,Aman,Transport,Fuel,2433,Debit Card
+2026-02-22 19:42:07.148171,Aman,Transport,Fuel,1346,Credit Card
+2026-02-23 19:42:07.148171,Sneha,Shopping,Clothes,597,Credit Card
+2026-02-24 19:42:07.148171,Aman,Food,Groceries,479,Credit Card
+2026-02-24 19:42:07.148171,Rahul,Entertainment,Subscriptions,1028,Credit Card
+2026-02-24 19:42:07.148171,Aman,Entertainment,Movies,4075,Debit Card
+2026-02-25 19:42:07.148171,Riya,Bills,Internet,2261,UPI
+2026-02-25 19:42:07.148171,Sneha,Shopping,Electronics,402,UPI
+2026-02-26 19:42:07.148171,Sneha,Food,Groceries,585,Cash
+2026-02-26 19:42:07.148171,Rahul,Bills,Internet,473,UPI
+2026-02-26 19:42:07.148171,Aman,Shopping,Electronics,1596,Cash
+2026-02-26 19:42:07.148171,Rahul,Bills,Electricity,2166,Cash
+2026-02-27 19:42:07.148171,Sneha,Entertainment,Movies,4441,Credit Card
+2026-02-28 19:42:07.148171,Aman,Transport,Fuel,4902,UPI
+2026-02-28 19:42:07.148171,Sneha,Bills,Electricity,1571,UPI
+2026-03-01 19:42:07.148171,Aman,Rent,House Rent,16195,UPI
+2026-03-01 19:42:07.148171,Rahul,Bills,Internet,3187,UPI
+2026-03-02 19:42:07.148171,Rahul,Transport,Cab,1697,Credit Card
+2026-03-03 19:42:07.148171,Rahul,Food,Dining,674,Credit Card
+2026-03-04 19:42:07.148171,Sneha,Rent,House Rent,19477,Debit Card
+2026-03-05 19:42:07.148171,Sneha,Rent,House Rent,19177,Credit Card
+2026-03-05 19:42:07.148171,Rahul,Transport,Cab,651,Cash
+2026-03-05 19:42:07.148171,Riya,Shopping,Electronics,1331,Credit Card
+2026-03-06 19:42:07.148171,Aman,Food,Dining,512,Debit Card
+2026-03-07 19:42:07.148171,Riya,Transport,Fuel,2935,Credit Card
+2026-03-07 19:42:07.148171,Sneha,Entertainment,Movies,1396,Credit Card
+2026-03-07 19:42:07.148171,Riya,Transport,Cab,3579,UPI
+2026-03-07 19:42:07.148171,Riya,Food,Dining,221,Debit Card
+2026-03-08 19:42:07.148171,Sneha,Transport,Fuel,4844,Cash
+2026-03-09 19:42:07.148171,Aman,Shopping,Electronics,550,Cash
+2026-03-10 19:42:07.148171,Rahul,Entertainment,Subscriptions,4774,UPI
+2026-03-10 19:42:07.148171,Riya,Transport,Cab,2989,Credit Card
+2026-03-10 19:42:07.148171,Riya,Food,Dining,211,Cash
+2026-03-11 19:42:07.148171,Aman,Entertainment,Subscriptions,467,Credit Card
+2026-03-11 19:42:07.148171,Riya,Rent,House Rent,14118,Cash
+2026-03-11 19:42:07.148171,Aman,Entertainment,Subscriptions,2992,UPI
+2026-03-11 19:42:07.148171,Rahul,Food,Dining,118,Cash
+2026-03-12 19:42:07.148171,Sneha,Rent,House Rent,14271,Credit Card
+2026-03-12 19:42:07.148171,Rahul,Rent,House Rent,11262,Cash
+2026-03-12 19:42:07.148171,Sneha,Bills,Electricity,3947,Credit Card
+2026-03-12 19:42:07.148171,Rahul,Transport,Cab,3874,Cash
+2026-03-13 19:42:07.148171,Sneha,Rent,House Rent,19161,Credit Card
+2026-03-13 19:42:07.148171,Rahul,Food,Dining,276,Credit Card
+2026-03-14 19:42:07.148171,Sneha,Transport,Cab,3464,Cash
+2026-03-14 19:42:07.148171,Sneha,Food,Groceries,444,Cash
+2026-03-14 19:42:07.148171,Riya,Entertainment,Subscriptions,4518,Debit Card
+2026-03-15 19:42:07.148171,Sneha,Entertainment,Subscriptions,4426,Debit Card
+2026-03-15 19:42:07.148171,Rahul,Shopping,Electronics,1403,Credit Card
+2026-03-15 19:42:07.148171,Rahul,Bills,Internet,1789,Debit Card
+2026-03-16 19:42:07.148171,Aman,Shopping,Clothes,1640,Debit Card
+2026-03-16 19:42:07.148171,Aman,Transport,Cab,3698,UPI
+2026-03-16 19:42:07.148171,Sneha,Bills,Electricity,1594,UPI
+2026-03-16 19:42:07.148171,Rahul,Food,Dining,138,UPI
+2026-03-17 19:42:07.148171,Aman,Transport,Fuel,2373,Cash
+2026-03-17 19:42:07.148171,Rahul,Bills,Electricity,3646,Debit Card
+2026-03-17 19:42:07.148171,Riya,Entertainment,Movies,2794,Debit Card
+2026-03-18 19:42:07.148171,Aman,Shopping,Electronics,3286,Credit Card
+2026-03-18 19:42:07.148171,Riya,Bills,Electricity,208,UPI
+2026-03-18 19:42:07.148171,Sneha,Bills,Electricity,2659,Credit Card
+2026-03-18 19:42:07.148171,Rahul,Rent,House Rent,10169,Cash
+2026-03-19 19:42:07.148171,Rahul,Food,Groceries,363,Credit Card
+2026-03-19 19:42:07.148171,Riya,Rent,House Rent,13090,Credit Card
+2026-03-19 19:42:07.148171,Riya,Food,Groceries,441,Debit Card
+2026-03-20 19:42:07.148171,Rahul,Rent,House Rent,16768,UPI
+2026-03-20 19:42:07.148171,Sneha,Bills,Internet,864,Credit Card
+2026-03-20 19:42:07.148171,Riya,Bills,Internet,807,Credit Card
+2026-03-20 19:42:07.148171,Rahul,Shopping,Electronics,2778,Credit Card
+2026-03-21 19:42:07.148171,Sneha,Bills,Electricity,2988,Debit Card
+2026-03-21 19:42:07.148171,Sneha,Shopping,Electronics,2871,Debit Card
+2026-03-21 19:42:07.148171,Rahul,Rent,House Rent,14437,Credit Card
+2026-03-21 19:42:07.148171,Sneha,Shopping,Clothes,1545,Credit Card
+2026-03-22 19:42:07.148171,Sneha,Rent,House Rent,15888,UPI
+2026-03-23 19:42:07.148171,Riya,Entertainment,Subscriptions,4699,Credit Card
+2026-03-23 19:42:07.148171,Riya,Food,Dining,405,Cash
+2026-03-24 19:42:07.148171,Riya,Food,Groceries,421,UPI
+2026-03-25 19:42:07.148171,Riya,Bills,Internet,1184,UPI
+2026-03-26 19:42:07.148171,Aman,Bills,Internet,1917,Debit Card
+2026-03-26 19:42:07.148171,Rahul,Shopping,Clothes,1153,UPI
+2026-03-27 19:42:07.148171,Rahul,Food,Dining,412,Cash
+2026-03-27 19:42:07.148171,Aman,Bills,Electricity,3067,UPI
+2026-03-27 19:42:07.148171,Sneha,Rent,House Rent,16631,Credit Card
+2026-03-28 19:42:07.148171,Aman,Food,Groceries,548,Debit Card
+2026-03-28 19:42:07.148171,Sneha,Bills,Internet,2689,Credit Card
+2026-03-28 19:42:07.148171,Riya,Bills,Electricity,1330,Debit Card
+2026-03-28 19:42:07.148171,Aman,Rent,House Rent,16845,Debit Card
+2026-03-29 19:42:07.148171,Aman,Entertainment,Movies,4683,Credit Card
+2026-03-30 19:42:07.148171,Riya,Shopping,Clothes,387,Credit Card
+2026-03-30 19:42:07.148171,Riya,Rent,House Rent,11318,Cash
+2026-03-31 19:42:07.148171,Riya,Transport,Cab,3713,UPI
+2026-03-31 19:42:07.148171,Sneha,Bills,Electricity,2001,Debit Card
+2026-03-31 19:42:07.148171,Rahul,Bills,Internet,1182,Debit Card
+2026-03-31 19:42:07.148171,Riya,Shopping,Electronics,4677,UPI
+2026-04-01 19:42:07.148171,Riya,Transport,Cab,822,Debit Card
+2026-04-02 19:42:07.148171,Rahul,Shopping,Clothes,756,Debit Card
+2026-04-02 19:42:07.148171,Rahul,Shopping,Clothes,1686,Cash
+2026-04-02 19:42:07.148171,Aman,Transport,Cab,3435,Credit Card
+2026-04-02 19:42:07.148171,Riya,Rent,House Rent,13986,Debit Card
+2026-04-03 19:42:07.148171,Rahul,Entertainment,Subscriptions,2593,Cash
+2026-04-03 19:42:07.148171,Rahul,Shopping,Electronics,3368,UPI
+2026-04-03 19:42:07.148171,Aman,Food,Groceries,679,Debit Card
+2026-04-04 19:42:07.148171,Riya,Shopping,Electronics,3616,Credit Card
+2026-04-04 19:42:07.148171,Rahul,Shopping,Clothes,1891,Credit Card
+2026-04-04 19:42:07.148171,Sneha,Entertainment,Movies,2106,Credit Card
+2026-04-04 19:42:07.148171,Riya,Rent,House Rent,16515,Debit Card
+2026-04-05 19:42:07.148171,Rahul,Shopping,Clothes,2489,Debit Card
+2026-04-05 19:42:07.148171,Rahul,Bills,Internet,2160,Credit Card
+2026-04-05 19:42:07.148171,Riya,Food,Dining,740,Credit Card
+2026-04-06 19:42:07.148171,Sneha,Entertainment,Subscriptions,4733,UPI
+2026-04-07 19:42:07.148171,Aman,Shopping,Clothes,4312,Debit Card
+2026-04-07 19:42:07.148171,Riya,Entertainment,Movies,3172,Debit Card
+2026-04-07 19:42:07.148171,Rahul,Transport,Fuel,2810,Debit Card
+2026-04-08 19:42:07.148171,Riya,Bills,Electricity,4504,Cash
+2026-04-08 19:42:07.148171,Aman,Food,Dining,662,Cash
+2026-04-08 19:42:07.148171,Aman,Rent,House Rent,9306,Cash
+2026-04-09 19:42:07.148171,Riya,Food,Dining,775,Cash
+2026-04-09 19:42:07.148171,Aman,Shopping,Clothes,2129,Cash
+2026-04-09 19:42:07.148171,Aman,Rent,House Rent,12000,Credit Card
+2026-04-10 19:42:07.148171,Sneha,Shopping,Electronics,2088,Cash
+2026-04-11 19:42:07.148171,Sneha,Shopping,Clothes,1375,Cash
+2026-04-11 19:42:07.148171,Aman,Bills,Internet,3140,UPI
+2026-04-11 19:42:07.148171,Sneha,Rent,House Rent,14482,Cash
+2026-04-11 19:42:07.148171,Aman,Transport,Cab,239,UPI
+2026-04-12 19:42:07.148171,Sneha,Transport,Cab,1539,Debit Card
+2026-04-12 19:42:07.148171,Rahul,Shopping,Electronics,1964,UPI
+2026-04-13 19:42:07.148171,Riya,Bills,Internet,3402,Cash
+2026-04-13 19:42:07.148171,Aman,Rent,House Rent,17593,Cash
+2026-04-13 19:42:07.148171,Sneha,Shopping,Electronics,617,Credit Card
+2026-04-14 19:42:07.148171,Aman,Transport,Cab,942,Credit Card
+2026-04-14 19:42:07.148171,Rahul,Shopping,Electronics,1204,UPI
+2026-04-14 19:42:07.148171,Rahul,Shopping,Clothes,4160,Cash
+2026-04-14 19:42:07.148171,Sneha,Shopping,Electronics,3159,Debit Card
+2026-04-15 19:42:07.148171,Riya,Bills,Electricity,667,Debit Card
+2026-04-16 19:42:07.148171,Riya,Shopping,Clothes,4465,UPI
+2026-04-16 19:42:07.148171,Aman,Transport,Cab,1814,Credit Card
+2026-04-16 19:42:07.148171,Riya,Bills,Electricity,957,UPI
+2026-04-16 19:42:07.148171,Rahul,Bills,Electricity,932,Debit Card
+2026-04-17 19:42:07.148171,Sneha,Food,Dining,295,UPI
+2026-04-17 19:42:07.148171,Riya,Entertainment,Movies,817,Debit Card
+2026-04-17 19:42:07.148171,Rahul,Shopping,Electronics,1371,Cash
+2026-04-17 19:42:07.148171,Riya,Entertainment,Subscriptions,2940,UPI
